@@ -42,7 +42,3 @@ Most of my waking hours are split between low-level C/C++/Rust pipelines and nos
 - **Tooling**: Neovim, `perf`, `gdb`, `rr` (record and replay debugger), `ghidra`
 
 ---
-
-<p align="center">
-  <sub>"C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off." — Bjarne Stroustrup</sub>
-</p>
