@@ -40,5 +40,3 @@ Most of my waking hours are split between low-level C/C++/Rust pipelines and nos
 - **Graphics & Emulation**: Vulkan, OpenGL, SDL2, cycle-accurate hardware emulation, shader development
 - **Operating Systems**: Arch Linux (custom minimal kernel), FreeBSD, DOS 6.22
 - **Tooling**: Neovim, `perf`, `gdb`, `rr` (record and replay debugger), `ghidra`
-
----
